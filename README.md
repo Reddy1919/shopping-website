@@ -1,2 +1,1 @@
-# websiteshopping
-# shopping-website
+The shop website is built using **HTML** and **CSS**, featuring a clean and responsive design. It includes a **homepage, product listings, navigation bar, and footer**, ensuring easy browsing for users. The website is fully responsive, making it accessible across **different devices**.
